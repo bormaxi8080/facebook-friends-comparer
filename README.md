@@ -1,6 +1,6 @@
 # facebook-friends-comparer
 
-Comparison of two Facebook friend lists
+Comparison of two Facebook friend lists formed from Facebook Data backups: [https://www.youtube.com/watch?v=pOMO_9FLHn8](https://www.youtube.com/watch?v=pOMO_9FLHn8)
 
 ### Problem:
 
@@ -18,7 +18,7 @@ See examples in **/examples** folder.
 
 ### Usage:
 
-> python3 compary.py
+> python3 compare.py
 
 ### Result:
 

@@ -51,7 +51,7 @@ def main():
             loaded_json = json.load(f)
             new_friends = loaded_json["friends_v2"]
     else:
-        raise Exception("File does not exist: {0}".format(old_list_path))
+        raise Exception("File does not exist: {0}".format(new_list_path))
 
     comparer = FacebookFiendListsComparer(old_friends, new_friends)
     diff_json = comparer.compare()
