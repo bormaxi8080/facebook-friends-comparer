@@ -2,7 +2,7 @@
 
 Comparison of two Facebook friend lists formed from Facebook Data backups: [https://www.youtube.com/watch?v=pOMO_9FLHn8](https://www.youtube.com/watch?v=pOMO_9FLHn8)
 
-### Problem:
+## Problem Description
 
 It is necessary to compare two lists of friends from Facebook backup files in the JSON format and identify new and deleted (deleted) friends.
 
@@ -16,7 +16,7 @@ New Friends List:
 
 See examples in **/examples** folder.
 
-### Usage:
+## Usage
 
 > python3 compare.py
 
@@ -33,3 +33,7 @@ Console Output:
 ![alt text](result_1.png)
 
 ![alt text](result_2.png)
+
+## Donates
+
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/bormaxi8080)
